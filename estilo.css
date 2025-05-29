@@ -1,6 +1,6 @@
 body {
-  background-image: linear-gradient(to right, rgb(33, 99, 16), rgb(112, 216, 207));
+  background-image: linear-gradient(to right, rgb(50, 136, 28), rgb(7, 255, 40));
 }
 div {
-  background-image: linear-gradient(to right, rgb(136, 136, 136), rgb(226, 226, 226));
+  background-color: rgba(211, 211, 211, 0.075);
 }
