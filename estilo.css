@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(to below, rgb(50, 136, 28), rgb(7, 255, 40));
+  background-image: linear-gradient(to right, rgb(50, 136, 28), rgb(7, 255, 40));
 }
 div {
   background-color: rgba(214, 204, 204, 0.075);
