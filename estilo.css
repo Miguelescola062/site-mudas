@@ -18,6 +18,7 @@ background: linear-gradient(90deg, rgba(57, 242, 29, 1) 0%, rgba(12, 166, 91, 1)
 }
 
 .inicio{
-    width: 110%;
-    height: 200px;
+   background-image: url("./img/textura-de-folha-verde-fundo-de-textura-de-folha.jpg");
+   background-size: contain;
+   height: 200px;
 }
