@@ -8,6 +8,7 @@ background: linear-gradient(90deg, rgba(57, 242, 29, 1) 0%, rgba(12, 166, 91, 1)
     display: flex;
 
     justify-content: space-between;
+    padding: 20px;
 }
 
 .bloco{
@@ -15,6 +16,7 @@ background: linear-gradient(90deg, rgba(57, 242, 29, 1) 0%, rgba(12, 166, 91, 1)
 }
 
 .pesquisaloc{    display: grid;
+    padding: 20px;
 }
 
 .inicio{
