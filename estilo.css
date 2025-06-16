@@ -25,10 +25,11 @@ background: linear-gradient(90deg, rgba(57, 242, 29, 1) 0%, rgba(12, 166, 91, 1)
    height: 200px;
 }
 
-.anuncios{background-color:#D2D0A0;
-height: auto;}
+.anuncios{background-color:#D2D0A0;}
 
 .pesquisa{display: flex;
 width: 300%;}
 
 .lupa{width:100%;}
+
+.text1{height: 30px;}
