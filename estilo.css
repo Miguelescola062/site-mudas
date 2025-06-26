@@ -26,7 +26,11 @@ height:100%;}
 }
 
 .anuncios{background-color:#D2D0A0;
-height: 700%;}
+height: 700%;
+display: flex;
+    flex-wrap: wrap;
+    padding: 60px;
+    justify-content: center;}
 
 .pesquisa{display: flex;
 width: 300%;}
