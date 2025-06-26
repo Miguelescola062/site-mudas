@@ -68,7 +68,7 @@ margin: 30px;}
     height:200px;
     display: flex;
     justify-content: space-around;
-
+    align-items:center ;
 }
 
 .coment{height: 30%;}
