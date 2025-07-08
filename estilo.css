@@ -104,10 +104,11 @@ margin-top: 70px;
 display: flex;
     height: 300px;
     justify-content: space-between;
+    align-items: center;
 }
 
 .text4{width: 70%;
-    margin-left:20px;
+    margin:20px;
 height: 10%;}
 
     .edit{height: 20%;}
