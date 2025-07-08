@@ -100,4 +100,8 @@ margin-top: 70px;
 
 .chat3{margin: 50px;}
 
-.enviar{background-color: #537D5D;}
+.enviar{background-color: #537D5D;
+display: flex;
+    height: 300px;
+    justify-content: space-between;
+}
