@@ -105,3 +105,10 @@ display: flex;
     height: 300px;
     justify-content: space-between;
 }
+
+.text4{width: 70%;
+    margin-left:20px;}
+
+    .edit{height: 20%;}
+
+    .sent{height: 20%;}
