@@ -111,6 +111,9 @@ display: flex;
     margin:20px;
 height: 10%;}
 
-    .edit{height: 20%;}
+    .edit{height: 20%;
+    margin-left: 80px;}
 
-    .sent{height: 20%;}
+    .sent{height: 20%;
+    margin: 20px;
+    margin-right: 80px;}
